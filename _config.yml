@@ -118,7 +118,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/TCComputerRobot"
+      url: "https://twitter.com/ieee_ras_crv"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/groups/RobVisTC/"
@@ -134,7 +134,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/TCComputerRobot
+      url: https://twitter.com/ieee_ras_crv
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/company/92709091
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: https://www.facebook.com/groups/RobVisTC/
@@ -150,10 +153,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: https://www.linkedin.com/company/92709091
-
 
 # Reading Files
 include:
