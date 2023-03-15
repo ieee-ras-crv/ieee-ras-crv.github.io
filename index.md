@@ -15,7 +15,7 @@ title: Scope
 	<img src="assets/images/img3.jpeg">
 </figure>
 
-<h1>Priority Areas for the Technical Committee include the Use of Visual Sensing for</h1>
+<h2>Priority Areas for the Technical Committee include the Use of Visual Sensing for</h2>
 <ul>
 <li>localization and mapping</li>
 <li>vision based control</li>
