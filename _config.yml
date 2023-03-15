@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Computer & Robot Vision"
 title_separator          : "-"
-subtitle                 : "IEEE RAS Technical Commitee" # site tagline that appears below site title in masthead
+subtitle                 : "IEEE RAS Technical Committee" # site tagline that appears below site title in masthead
 name                     : "TC for Computer & Robot Vision"
 description              : "Official Website for IEEE RAS Technical Commitee for Computer & Robot Vision"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
