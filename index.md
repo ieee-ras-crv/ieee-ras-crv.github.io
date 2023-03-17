@@ -2,7 +2,7 @@
 layout: home
 author_profile: true
 header:
-  image: /assets/images/erik-mclean-f1CFb_Ek-is-unsplash.jpg
+  image: /assets/images/iStock-1301105956.jpg
 classes: wide
 title: Computer & Robot Vision
 ---
