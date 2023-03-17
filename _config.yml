@@ -121,7 +121,7 @@ author:
       url: "https://twitter.com/ieee_ras_crv"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/groups/RobVisTC/"
+      # url: "https://www.facebook.com/groups/RobVisTC/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
@@ -140,7 +140,7 @@ footer:
       url: https://www.linkedin.com/company/92709091
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: https://www.facebook.com/groups/RobVisTC/
+      # url: https://www.facebook.com/groups/RobVisTC/
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
