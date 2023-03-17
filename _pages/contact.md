@@ -34,3 +34,7 @@ table th:nth-of-type(3) {
 | <img src="/assets/images/chen-3-4.jpg" width="150"> | <img src="/assets/images/LetiziaGionfrida.jpg" width="150"> | <img src="/assets/images/LuGan.jpg" width="150"> |
 | [**Chen Wang**](https://sairlab.org)<br> State University of New York at Buffalo<br> New York, USA<br> Email: <cwx@buffalo.edu> | [**Letizia Gionfrida**](https://biorobotics.harvard.edu)<br> Harvard University<br> Boston (MA), USA<br> Email: <gionfrida@seas.harvard.edu> | [**Lu Gan**](https://ganlumomo.github.io)<br> California Institute of Technology<br> Pasadena (CA), USA<br> Email: <ganlu@caltech.edu> |
 
+<br>
+
+{: .text-center}
+[JOIN US](https://app.smartsheet.com/b/form?EQBCT=9c00dc7616774e6589f3cf2ea18a6777){: .btn .btn--large .btn--info}
