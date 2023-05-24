@@ -1,6 +1,9 @@
 ---
 layout: single
+classes: wide
 title:  "New TC Membership System"
+categories:
+  - Announcement
 ---
 
 The [IEEE Robotics and Automation Society](https://www.ieee-ras.org) is taking steps to incorporate the Technical Committees (TCs) into existing IEEE infrastructure and improve the data privacy options. This will allow for easier management, communication, and organization.

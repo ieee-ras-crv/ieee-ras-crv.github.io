@@ -8,6 +8,8 @@ main:
     url: https://ieee-ras-crv.github.io/activities/
   - title: "Posts"
     url: https://ieee-ras-crv.github.io/posts/
+  - title: "Categories"
+    url: /categories/
   - title: "Contact"
     url: https://ieee-ras-crv.github.io/contact/
   # - title: "Sample Collections"
