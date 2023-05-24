@@ -2,7 +2,53 @@
 title: "Activities"
 layout: single
 classes: wide
-author_profile: true
 permalink: /activities/
+author_profile: true
+toc: true
+toc_sticky: true
 ---
-<iframe frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTpNyNspxz5CF_KZfYH_HWVAHwSpwdCPYItPWoQ5CRgxhbES9zFygTp2NpBcIU5kcF3A4CdB1Bl2vyy/pubhtml?widget=true&amp;chrome=false&amp;headers=false" width="100%" height="600"></iframe>
+
+#### Upcoming Workshops
+<table>
+  {% for workshop in site.workshops %}
+    <tr>
+    <td>{{ workshop.date | date: "%m/%d/%y" }}</td>  
+    <td>{{ workshop.conference }}</td>  
+    <td><a href="{{ workshop.website }}">{{ workshop.name }}</a></td>
+    </tr>
+  {% endfor %}
+</table>
+
+#### Upcoming Special Issues
+<table>
+  {% for issue in site.special_issues %}
+    <tr>
+    <td>{{ issue.date | date: "%m/%d/%y" }}</td>  
+    <td>{{ issue.conference }}</td>  
+    <td><a href="{{ issue.website }}">{{ issue.name }}</a></td>
+    </tr>
+  {% endfor %}
+</table>
+
+
+#### Past Workshops
+<table>
+  {% for workshop in site.workshops_past %}
+    <tr>
+    <td>{{ workshop.date | date: "%m/%d/%y" }}</td>  
+    <td>{{ workshop.conference }}</td>  
+    <td><a href="{{ workshop.website }}">{{ workshop.name }}</a></td>
+    </tr>
+  {% endfor %}
+</table>
+
+#### Past Special Issues
+<table>
+  {% for issue in site.special_issues_past %}
+    <tr>
+    <td>{{ issue.date | date: "%m/%d/%y" }}</td>  
+    <td>{{ issue.conference }}</td>  
+    <td><a href="{{ issue.website }}">{{ issue.name }}</a></td>
+    </tr>
+  {% endfor %}
+</table>
