@@ -5,7 +5,7 @@ main:
   - title: "Activities"
     url: /activities/
   - title: "Posts"
-    url: /posts/
+    url: /categories/
   - title: "Contact"
     url: /contact/
   # - title: "Sample Collections"

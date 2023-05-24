@@ -2,6 +2,6 @@
 title: "Posts"
 layout: categories
 classes: wide
-permalink: /posts/
+permalink: /categories/
 author_profile: true
 ---
