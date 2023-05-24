@@ -8,7 +8,7 @@ toc: true
 toc_sticky: true
 ---
 
-#### Upcoming Workshops
+## Workshops
 <table>
   {% for workshop in site.workshops %}
     <tr>
@@ -19,7 +19,7 @@ toc_sticky: true
   {% endfor %}
 </table>
 
-#### Upcoming Special Issues
+## Special Issues
 <table>
   {% for issue in site.special_issues %}
     <tr>
@@ -30,8 +30,8 @@ toc_sticky: true
   {% endfor %}
 </table>
 
-
-#### Past Workshops
+## Past Activities
+##### Past Workshops
 <table>
   {% for workshop in site.workshops_past %}
     <tr>
@@ -41,8 +41,7 @@ toc_sticky: true
     </tr>
   {% endfor %}
 </table>
-
-#### Past Special Issues
+##### Past Special Issues
 <table>
   {% for issue in site.special_issues_past %}
     <tr>

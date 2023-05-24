@@ -1,17 +1,13 @@
 # main links
 main:
-  #- title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Home"
-    url: https://ieee-ras-crv.github.io/
+    url: /
   - title: "Activities"
-    url: https://ieee-ras-crv.github.io/activities/
+    url: /activities/
   - title: "Posts"
-    url: https://ieee-ras-crv.github.io/posts/
-  - title: "Categories"
-    url: /categories/
+    url: /posts/
   - title: "Contact"
-    url: https://ieee-ras-crv.github.io/contact/
+    url: /contact/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
