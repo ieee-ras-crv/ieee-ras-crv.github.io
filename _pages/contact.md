@@ -37,4 +37,4 @@ table th:nth-of-type(3) {
 <br>
 
 {: .text-center}
-[JOIN US](https://app.smartsheet.com/b/form?EQBCT=9c00dc7616774e6589f3cf2ea18a6777){: .btn .btn--large .btn--info}
+[JOIN US](https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=CMYRAS021&tcType=IEEE%20Robotics%20and%20Automation%20Society%20Membership&searchResults=Y){: .btn .btn--large .btn--info}
