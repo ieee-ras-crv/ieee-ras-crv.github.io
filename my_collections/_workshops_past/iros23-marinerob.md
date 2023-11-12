@@ -4,4 +4,5 @@ conference: IROS2023
 date: 2023-10-01
 website: https://crai.cuhk.edu.cn/event/MarineRoboticsWorkshop
 endorsing: true
+number: 995
 ---

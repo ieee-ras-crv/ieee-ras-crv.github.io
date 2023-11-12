@@ -298,8 +298,9 @@ collections_dir: my_collections
 collections:
   workshops:
     sort_by: date
+    sort_order: reverse
   workshops_past:
-    sort_by: date
+    sort_by: number
     sort_order: reverse
   special_issues:
     sort_by: date
