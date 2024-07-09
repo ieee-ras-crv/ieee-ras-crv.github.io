@@ -34,6 +34,18 @@ table th:nth-of-type(3) {
 | <img src="/assets/images/chen-3-4.jpg" width="150"> | <img src="/assets/images/LetiziaGionfrida.jpg" width="150"> | <img src="/assets/images/LuGan.jpg" width="150"> |
 | [**Chen Wang**](https://sairlab.org)<br> State University of New York at Buffalo<br> New York, USA<br> Email: <cwx@buffalo.edu> | [**Letizia Gionfrida**](https://kclpure.kcl.ac.uk/portal/en/persons/letizia.gionfrida)<br> King’s College London<br> London, UK<br> Email: <letizia.gionfrida@kcl.ac.uk> | [**Lu Gan**](https://ganlumomo.github.io)<br> Georgia Institute of Technology<br> Atlanta (GA), USA<br> Email: <lgan@gatech.edu> |
 
+{: .text-center}
+<h3> Student Representatives </h3>
+
+{: .text-center}
+| <img src="/assets/images/david.jpg" width="150"> | <img src="/assets/images/christina.jpeg" width="150"> | <img src="/assets/images/bowen.jpg" width="150"> |
+| [**David Morilla-Cabello**](https://dvdmc.github.io)<br> University of Zaragoza<br> Zaragoza, Spain<br> Email: <davidmc@unizar.es> | [**Christina Kassab**](https://ckassab.github.io)<br> Oxford Robotics Institute<br> Oxford, UK<br> Email: <christina@robots.ox.ac.uk> | [**Bowen Li**](https://jaraxxus-me.github.io)<br> Carnegie Mellon University<br> Pittsburgh (PA), USA<br> Email: <bowenli2@andrew.cmu.edu> |
+
+{: .text-center}
+| <img src="/assets/images/jiankai.png" width="150"> | | |
+| [**Jiankai Sun**](https://web.stanford.edu/~jksun)<br> Stanford University<br> Stanford (CA), USA<br> Email: <jksun@stanford.edu> | | |
+
+
 <br>
 
 {: .text-center}
