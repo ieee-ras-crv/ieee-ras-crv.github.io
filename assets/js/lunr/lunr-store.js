@@ -59,6 +59,12 @@ var store = [{
         "url": "/news/top3-advancements/",
         "teaser": null
       },{
+        "title": "IEEE RAS Computer & Robot Vision Best Paper Award fron IEEE TRO",
+        "excerpt":"We are thrilled to announce that the Best Paper Award in Computer &amp; Robot Vision has been awarded to “Lidar-Level Localization With Radar? The CFEAR Approach to Accurate, Fast, and Robust Large-Scale Radar Odometry in Diverse Environments,” published in IEEE Transactions on Robotics (TRO). Congrats to the authors Daniel Adolfsson,...","categories": ["News"],
+        "tags": [],
+        "url": "/news/tro-best-paper/",
+        "teaser": null
+      },{
         "title": "Roman23 Visual Haptic",
         "excerpt":" ","categories": [],
         "tags": [],
