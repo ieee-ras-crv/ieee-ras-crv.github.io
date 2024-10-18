@@ -232,4 +232,76 @@ var store = [{
         "tags": [],
         "url": "/workshops_past/eccv08-vision-action/",
         "teaser": null
+      },{
+        "title": "Icra24 Agile",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/workshops_past/icra24-agile/",
+        "teaser": null
+      },{
+        "title": "Icra24 Back To",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/workshops_past/icra24-back-to/",
+        "teaser": null
+      },{
+        "title": "Icra24 3dv",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/workshops_past/icra24-3dv/",
+        "teaser": null
+      },{
+        "title": "Icra24 Represent",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/workshops_past/icra24-represent/",
+        "teaser": null
+      },{
+        "title": "Icra24 Resilient",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/workshops_past/icra24-resilient/",
+        "teaser": null
+      },{
+        "title": "Icra24 Superv",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/workshops_past/icra24-superv/",
+        "teaser": null
+      },{
+        "title": "Iros24 Brain",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/workshops_past/iros24-brain/",
+        "teaser": null
+      },{
+        "title": "Iros24 Closing",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/workshops_past/iros24-closing/",
+        "teaser": null
+      },{
+        "title": "Iros24 Equiv",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/workshops_past/iros24-equiv/",
+        "teaser": null
+      },{
+        "title": "Iros24 Long Term",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/workshops_past/iros24-long-term/",
+        "teaser": null
+      },{
+        "title": "Iros24 Romado",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/workshops_past/iros24-romado/",
+        "teaser": null
+      },{
+        "title": "Iros24 Foundation",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/workshops_past/iros24-foundation/",
+        "teaser": null
       }]
