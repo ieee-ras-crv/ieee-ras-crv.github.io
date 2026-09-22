@@ -32,7 +32,7 @@ table th:nth-of-type(3) {
 
 {: .text-center}
 | <img src="/assets/images/chen-3-4.jpg" width="150"> | <img src="/assets/images/LetiziaGionfrida.jpg" width="150"> | <img src="/assets/images/LuGan.jpg" width="150"> |
-| [**Chen Wang**](https://sairlab.org)<br> State University of New York at Buffalo<br> New York, USA<br> Email: <cwx@buffalo.edu> | [**Letizia Gionfrida**](https://kclpure.kcl.ac.uk/portal/en/persons/letizia.gionfrida)<br> King’s College London<br> London, UK<br> Email: <letizia.gionfrida@kcl.ac.uk> | [**Lu Gan**](https://ganlumomo.github.io)<br> Georgia Institute of Technology<br> Atlanta (GA), USA<br> Email: <lgan@gatech.edu> |
+| [**Chen Wang**](https://sairlab.org)<br> State University of New York at Buffalo<br> New York, USA<br> Email: <cwx@buffalo.edu> | [**Letizia Gionfrida**](https://kclpure.kcl.ac.uk/portal/en/persons/letizia.gionfrida)<br> King’s College London<br> London, UK<br> Email: <letizia.gionfrida@kcl.ac.uk> | [**Lu Gan**](https://sites.gatech.edu/lunarlab/lgan/)<br> Georgia Institute of Technology<br> Atlanta (GA), USA<br> Email: <lgan@gatech.edu> |
 
 {: .text-center}
 <h2> Student Representatives </h2>
