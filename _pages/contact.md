@@ -24,8 +24,8 @@ table th:nth-of-type(3) {
 <h2> Co-Chairs </h2>
 
 {: .text-center}
-| <img src="/assets/images/0_carlone_luca.png" width="150"> | <img src="/assets/images/526_chli_margarita.png" width="150"> | <img src="/assets/images/0_lee_gim-hiee.jpeg" width="140"> |
-| [**Luca Carlone**](https://lucacarlone.mit.edu)<br> Massachusetts Institute of Technology<br> Cambridge (MA), USA<br> Email: <lcarlone@mit.edu>| [**Margarita Chli**](https://v4rl.com/blog/chli-margarita-dr1676387386/the-lab)<br> ETH Zurich<br> Zurich, Switzerland<br> Email: <chlim@ethz.ch> | [**Gim Hee Lee**](https://www.comp.nus.edu.sg/~leegh/)<br> National University of Singapore<br> Singapore, Singapore<br> Email: <dcslgh@nus.edu.sg> |
+| <img src="/assets/images/0_carlone_luca.png" width="150"> | <img src="/assets/images/526_chli_margarita.png" width="150"> | <img src="/assets/images/0_zhang_fu.jpg" width="150"> |
+| [**Luca Carlone**](https://lucacarlone.mit.edu)<br> Massachusetts Institute of Technology<br> Cambridge (MA), USA<br> Email: <lcarlone@mit.edu>| [**Margarita Chli**](https://v4rl.com/blog/chli-margarita-dr1676387386/the-lab)<br> ETH Zurich<br> Zurich, Switzerland<br> Email: <chlim@ethz.ch> | [**Fu Zhang**](https://mars.hku.hk)<br> University of Hong Kong<br> Hong Kong, China<br> Email: <fuzhang@hku.hk> |
 
 {: .text-center}
 <h2> Associate Co-Chairs </h2>
